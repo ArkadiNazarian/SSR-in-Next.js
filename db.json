@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "ihpone 14",
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "title": "ihpone 11",
+            "price": 1000
+        },
+        {
+            "id": 3,
+            "title": "samsung",
+            "price": 5000
+        },
+        {
+            "id": 4,
+            "title": "ihpone 12",
+            "price": 6000
+        }
+    ]
+}
